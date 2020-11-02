@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.1"
+    "chai": "^4.2.0",
+    "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "eslint": "^7.12.1",
+    "test": "^0.6.0"
   }
 }
